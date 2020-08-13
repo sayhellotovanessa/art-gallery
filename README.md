@@ -10,7 +10,7 @@ This is a simple application for an image gallery (slideshow).
 
 ### Requirements
 
-A computer with a terminal (Mac:, Linux: , Windows: ) and the following tools installed:
+A computer with a terminal and the following tools installed:
 
 [Nodejs](https://nodejs.org/en/)
 
@@ -21,13 +21,16 @@ A computer with a terminal (Mac:, Linux: , Windows: ) and the following tools in
 Open your terminal and follow the steps:
 
 1. Clone the repository and go to the new folder.
+
 `git clone https://github.com/sayhellotovanessa/art-gallery.git`
 
 `cd art-gallery`
 
 2. Install the dependencies.
+
 `npm install`
-This will create a subfolder node_modules in your project root folder.
+
+(This will create a subfolder node_modules in your project root folder).
 
 ## Run the application
 
@@ -44,4 +47,4 @@ You will also see any lint errors in the console.
  `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See more about [running tests here](https://facebook.github.io/create-react-app/docs/running-tests).
