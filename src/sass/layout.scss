@@ -1,0 +1,35 @@
+// Layout containers
+.container {
+    margin: 0 auto;
+    max-width: 900px;
+  
+}
+
+.layout {
+    display: grid;
+    grid-gap: 0.5rem;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+// Layout elements
+
+.top {
+  position: sticky;
+
+  &-navbar {
+      &-list {
+        display: inline;
+      }     
+  }
+}
+
+.box {
+    border: solid black 2px;
+    padding: 10px;
+
+}
+
