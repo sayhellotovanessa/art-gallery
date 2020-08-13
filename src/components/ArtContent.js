@@ -1,4 +1,5 @@
 import React from 'react'
+import Gallery from './Gallery'
 
 function ArtContent() {
     return (
@@ -6,9 +7,7 @@ function ArtContent() {
             <h1>Current exhibition</h1>
             <p> Cupcake ipsum dolor sit amet tart sweet roll tootsie roll bear claw. 
             Cotton candy gummies cake. Wafer candy canes marzipan topping. </p>
-            <div class="gallery">
-                Gallery
-            </div>
+            <Gallery />
       </div>
     )
 }
