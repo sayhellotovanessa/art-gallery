@@ -5,8 +5,7 @@ function ArtContent() {
     return (
         <div class='box'>
             <h1>Current exhibition</h1>
-            <p> Cupcake ipsum dolor sit amet tart sweet roll tootsie roll bear claw. 
-            Cotton candy gummies cake. Wafer candy canes marzipan topping. </p>
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  </p>
             <Gallery />
       </div>
     )
